@@ -50,9 +50,9 @@ a {
     margin: 4% 1% 0% 0%;
 }
 
-#sports {
-    background-image: url(images/sports.jpg);
-    background-size: cover;
+#trivia-game {
+    background-image: url(images/trivia_logo_2.jpg);
+    background-size: 280px 280px;
     padding: 3%;
     margin: 4% 1% 0% 0%;
 }
