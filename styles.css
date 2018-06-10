@@ -13,6 +13,12 @@ a {
     border-color: #fff;
 }
 
+#imageGE {
+    height: 270px;
+    width: 200px;
+    float: left;
+}
+
 #navButtons {
     text-align: end;
 }
@@ -81,5 +87,10 @@ a {
     text-align: center;
 }
 
+#imageGE {
+    height: 189px;
+    width: 140px;
+    float: left;
+}
 
 }
